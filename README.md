@@ -7,3 +7,6 @@
 ## Patterns
 * Design Patterns: Elements of Reusable Object-Oriented Software, Addison-Wesley Professional, 1994, Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
 * Patterns of Enterprise Application Architecture, Addison-Wesley Professional, 2002, Martin Fowler
+
+## Architecture
+* Clean Architecture: A Craftsman's Guide to Software Structure and Design, Prentice Hall, 2017, Robert C. Martin
